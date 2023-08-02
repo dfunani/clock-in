@@ -51,7 +51,7 @@ def main(fullName, employeeNumber) -> bool:
 
         for button in buttons:
             if button.get_attribute("role") == "button":
-                # button.click()
+                button.click()
                 logging.info("Submitted Successfully")
 
     except BaseException as error:
