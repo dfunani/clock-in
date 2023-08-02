@@ -4,4 +4,4 @@ cd ~/Documents/Programs/clock-in/
 
 source ./env/bin/activate
 
-python3 app.command
+python3 app.command "Delali Funani" 0851
