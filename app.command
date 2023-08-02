@@ -31,6 +31,7 @@ def main(fullName, employeeNumber) -> bool:
         logging.info("Google Form Opened")
     except BaseException:
         logging.info("Google Form Failed to Open")
+        return False
 
     try:
         inputs = browser.find_elements(By.TAG_NAME, "input")
@@ -55,6 +56,7 @@ def main(fullName, employeeNumber) -> bool:
 
     except BaseException as error:
         logging.info("Failed to submit" + str(error))
+        return False
 
     time.sleep(2)
     return True
@@ -63,12 +65,11 @@ def main(fullName, employeeNumber) -> bool:
 if __name__ == "__main__":
     # If process args aren't the right length
     if len(sys.argv) != 3:
-        sys.exit("Employee Name and Number not provided")
+        print("Employee Name and Number not provided")
 
     logging.basicConfig(filename="clockin.log", encoding="utf-8", level=logging.INFO)
-    
+
     if main(sys.argv[1], sys.argv[2]):
         print("Clocked In")
     else:
         print("Error Encountered")
-
