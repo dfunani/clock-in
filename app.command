@@ -53,9 +53,10 @@ def main(fullName, employeeNumber) -> bool:
             if button.get_attribute("role") == "button":
                 button.click()
                 logging.info("Submitted Successfully")
+                return True
 
     except BaseException as error:
-        logging.info("Failed to submit" + str(error))
+        logging.error("Failed to submit" + str(error))
         return False
 
     time.sleep(2)

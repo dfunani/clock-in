@@ -1,0 +1,122 @@
+INFO:root:clock-in process started 2023-08-03 09:15:01.229901
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:Failed to submitMessage: stale element reference: stale element not found
+  (Session info: chrome=115.0.5790.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100717f48 chromedriver + 4226888
+1   chromedriver                        0x00000001007104f4 chromedriver + 4195572
+2   chromedriver                        0x0000000100354d68 chromedriver + 281960
+3   chromedriver                        0x000000010036236c chromedriver + 336748
+4   chromedriver                        0x0000000100359a78 chromedriver + 301688
+5   chromedriver                        0x0000000100359a4c chromedriver + 301644
+6   chromedriver                        0x000000010035862c chromedriver + 296492
+7   chromedriver                        0x000000010035baf0 chromedriver + 310000
+8   chromedriver                        0x00000001003c7800 chromedriver + 751616
+9   chromedriver                        0x00000001003c6c58 chromedriver + 748632
+10  chromedriver                        0x0000000100383f1c chromedriver + 474908
+11  chromedriver                        0x0000000100384ef4 chromedriver + 478964
+12  chromedriver                        0x00000001006d959c chromedriver + 3970460
+13  chromedriver                        0x00000001006dd6f0 chromedriver + 3987184
+14  chromedriver                        0x00000001006e35b4 chromedriver + 4011444
+15  chromedriver                        0x00000001006de2fc chromedriver + 3990268
+16  chromedriver                        0x00000001006b61c0 chromedriver + 3826112
+17  chromedriver                        0x00000001006fa088 chromedriver + 4104328
+18  chromedriver                        0x00000001006fa1e0 chromedriver + 4104672
+19  chromedriver                        0x0000000100709f28 chromedriver + 4169512
+20  libsystem_pthread.dylib             0x00000001a1253fa8 _pthread_start + 148
+21  libsystem_pthread.dylib             0x00000001a124eda0 thread_start + 8
+
+INFO:root:clock-in process started 2023-08-04 09:15:01.207127
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:Failed to submitMessage: stale element reference: stale element not found
+  (Session info: chrome=115.0.5790.170); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ad3f48 chromedriver + 4226888
+1   chromedriver                        0x0000000104acc4f4 chromedriver + 4195572
+2   chromedriver                        0x0000000104710d68 chromedriver + 281960
+3   chromedriver                        0x000000010471e36c chromedriver + 336748
+4   chromedriver                        0x0000000104715a78 chromedriver + 301688
+5   chromedriver                        0x0000000104715a4c chromedriver + 301644
+6   chromedriver                        0x000000010471462c chromedriver + 296492
+7   chromedriver                        0x0000000104717af0 chromedriver + 310000
+8   chromedriver                        0x0000000104783800 chromedriver + 751616
+9   chromedriver                        0x0000000104782c58 chromedriver + 748632
+10  chromedriver                        0x000000010473ff1c chromedriver + 474908
+11  chromedriver                        0x0000000104740ef4 chromedriver + 478964
+12  chromedriver                        0x0000000104a9559c chromedriver + 3970460
+13  chromedriver                        0x0000000104a996f0 chromedriver + 3987184
+14  chromedriver                        0x0000000104a9f5b4 chromedriver + 4011444
+15  chromedriver                        0x0000000104a9a2fc chromedriver + 3990268
+16  chromedriver                        0x0000000104a721c0 chromedriver + 3826112
+17  chromedriver                        0x0000000104ab6088 chromedriver + 4104328
+18  chromedriver                        0x0000000104ab61e0 chromedriver + 4104672
+19  chromedriver                        0x0000000104ac5f28 chromedriver + 4169512
+20  libsystem_pthread.dylib             0x00000001a1253fa8 _pthread_start + 148
+21  libsystem_pthread.dylib             0x00000001a124eda0 thread_start + 8
+
+INFO:root:clock-in process started 2023-08-04 09:38:42.783326
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:Failed to submitMessage: stale element reference: stale element not found
+  (Session info: chrome=115.0.5790.170); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010470bf48 chromedriver + 4226888
+1   chromedriver                        0x00000001047044f4 chromedriver + 4195572
+2   chromedriver                        0x0000000104348d68 chromedriver + 281960
+3   chromedriver                        0x000000010435636c chromedriver + 336748
+4   chromedriver                        0x000000010434da78 chromedriver + 301688
+5   chromedriver                        0x000000010434da4c chromedriver + 301644
+6   chromedriver                        0x000000010434c62c chromedriver + 296492
+7   chromedriver                        0x000000010434faf0 chromedriver + 310000
+8   chromedriver                        0x00000001043bb800 chromedriver + 751616
+9   chromedriver                        0x00000001043bac58 chromedriver + 748632
+10  chromedriver                        0x0000000104377f1c chromedriver + 474908
+11  chromedriver                        0x0000000104378ef4 chromedriver + 478964
+12  chromedriver                        0x00000001046cd59c chromedriver + 3970460
+13  chromedriver                        0x00000001046d16f0 chromedriver + 3987184
+14  chromedriver                        0x00000001046d75b4 chromedriver + 4011444
+15  chromedriver                        0x00000001046d22fc chromedriver + 3990268
+16  chromedriver                        0x00000001046aa1c0 chromedriver + 3826112
+17  chromedriver                        0x00000001046ee088 chromedriver + 4104328
+18  chromedriver                        0x00000001046ee1e0 chromedriver + 4104672
+19  chromedriver                        0x00000001046fdf28 chromedriver + 4169512
+20  libsystem_pthread.dylib             0x00000001a1253fa8 _pthread_start + 148
+21  libsystem_pthread.dylib             0x00000001a124eda0 thread_start + 8
+
+INFO:root:clock-in process started 2023-08-04 09:39:35.172364
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:Submitted Successfully
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-04 09:41:05.705419
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
