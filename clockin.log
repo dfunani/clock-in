@@ -120,3 +120,582 @@ INFO:root:Google Form Opened
 INFO:root:Username Entered
 INFO:root:Employee Number Entered
 INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-07 09:15:01.557771
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-08 09:15:01.624608
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-10 08:15:23.085589
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-10 08:20:04.955307
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+ERROR:root:Failed to submitAlert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=115.0.5790.170)
+Stacktrace:
+0   chromedriver                        0x0000000100b5bf48 chromedriver + 4226888
+1   chromedriver                        0x0000000100b544f4 chromedriver + 4195572
+2   chromedriver                        0x0000000100798d68 chromedriver + 281960
+3   chromedriver                        0x000000010080aaf8 chromedriver + 748280
+4   chromedriver                        0x00000001007c7f1c chromedriver + 474908
+5   chromedriver                        0x00000001007c8ef4 chromedriver + 478964
+6   chromedriver                        0x0000000100b1d59c chromedriver + 3970460
+7   chromedriver                        0x0000000100b216f0 chromedriver + 3987184
+8   chromedriver                        0x0000000100b275b4 chromedriver + 4011444
+9   chromedriver                        0x0000000100b222fc chromedriver + 3990268
+10  chromedriver                        0x0000000100afa1c0 chromedriver + 3826112
+11  chromedriver                        0x0000000100b3e088 chromedriver + 4104328
+12  chromedriver                        0x0000000100b3e1e0 chromedriver + 4104672
+13  chromedriver                        0x0000000100b4df28 chromedriver + 4169512
+14  libsystem_pthread.dylib             0x000000018703ffa8 _pthread_start + 148
+15  libsystem_pthread.dylib             0x000000018703ada0 thread_start + 8
+
+INFO:root:clock-in process started 2023-08-11 08:01:00.691884
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-14 08:02:59.755732
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Failed to Open
+INFO:root:clock-in process started 2023-08-14 09:22:46.327023
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-15 08:01:01.066112
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-16 08:01:01.216942
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:root:clock-in process started 2023-08-17 08:17:45.749142
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "114.0.5735.90" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:19:24.197719
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:20:08.353679
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:22:40.018071
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:23:17.717493
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "115.0.5790.170" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/115.0.5790.170/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:24:13.412185
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:32:58.577393
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:39:31.646452
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:40:25.873450
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845.96/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-17 08:49:25.554990
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845.96/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 07:52:11.378285
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "latest" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 07:57:04.186146
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_mac_arm64.zip
+INFO:WDM:Driver has been saved in cache [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90]
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:01:01.309546
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [/Users/delalifunani/.wdm/drivers/chromedriver/mac_arm64/114.0.5735.90/chromedriver] found in cache
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:03:48.642090
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:There is no [mac_arm64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845" in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/116.0.5845.96/chromedriver_mac_arm64.zip
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:26:59.948766
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:29:03.298125
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:29:39.151589
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:30:15.741264
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:30:29.607699
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:30:54.034027
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:32:56.197469
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:37:23.963174
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:37:44.882040
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:39:02.908477
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:39:28.110242
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:41:32.386640
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:42:22.458262
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:45:05.958403
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:47:04.489470
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:47:42.281266
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:47:51.521451
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:47:58.567853
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:51:01.491152
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:53:02.463847
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:54:03.629920
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 08:54:40.987395
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:01:34.534510
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:02:04.266215
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:02:17.819665
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:08:34.633586
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:08:41.845936
+WARNING:selenium.webdriver.common.selenium_manager:The chromedriver version (114.0.5735.90) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (116.0.5845.96); currently, chromedriver 116.0.5845.96 is recommended for chrome 116.*, so it is advised to delete the driver in PATH and retry
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:11:19.400489
+WARNING:selenium.webdriver.common.selenium_manager:The chromedriver version (114.0.5735.90) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (116.0.5845.96); currently, chromedriver 116.0.5845.96 is recommended for chrome 116.*, so it is advised to delete the driver in PATH and retry
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:13:26.595742
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:20:20.388794
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:27:16.457494
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:27:31.575346
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:28:25.468096
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:29:22.428791
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:30:40.042561
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:32:00.703670
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:32:22.881845
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:34:22.546590
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:42:49.005896
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:42:57.359393
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:43:12.645494
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:44:19.195986
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:44:49.051657
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:45:44.764399
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:47:28.996605
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:47:37.260030
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:48:55.153508
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:52:07.686928
+INFO:root:clock-in process started 2023-08-18 09:52:20.069907
+INFO:root:clock-in process started 2023-08-18 09:52:48.032656
+INFO:root:clock-in process started 2023-08-18 09:52:56.379072
+INFO:root:clock-in process started 2023-08-18 09:53:15.423804
+INFO:root:clock-in process started 2023-08-18 09:53:25.551141
+INFO:root:clock-in process started 2023-08-18 09:53:34.070290
+INFO:root:clock-in process started 2023-08-18 09:53:47.280045
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:54:05.961171
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:54:43.138970
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:56:02.932475
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:57:03.389511
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:57:11.729914
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:58:01.235837
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:58:10.141013
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:58:27.709537
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 09:59:23.508312
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 10:00:10.552683
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 10:06:09.952142
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 10:06:38.559164
+INFO:root:Chrome Browser Failed to open
+INFO:root:clock-in process started 2023-08-18 10:14:39.542653
+INFO:root:Chrome Browser Opened
+INFO:root:clock-in process started 2023-08-18 10:31:30.788832
+INFO:pyppeteer.chromium_downloader:Starting Chromium download.
+INFO:pyppeteer.chromium_downloader:Beginning extraction
+INFO:pyppeteer.chromium_downloader:Chromium extracted to: /Users/delalifunani/Library/Application Support/pyppeteer/local-chromium/588429
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64399/devtools/browser/b1c65624-5600-4779-9bdf-8167bc878f3a
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Google Form Failed to Open
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:32:50.057639
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64614/devtools/browser/479ef5c0-5880-453f-a169-1fd202c44ac0
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:33:11.284489
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64647/devtools/browser/af1a3d73-52cf-42ca-84d1-60ef69419b8f
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Google Form Failed to Open
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:34:13.117585
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64702/devtools/browser/83a492a7-cb43-4ba3-9950-7c53c88a54ac
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Google Form Failed to Open
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:35:27.454547
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64771/devtools/browser/6668cb47-0cea-4450-b470-d3a87712e3b2
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:40:49.860450
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64962/devtools/browser/7da4a816-01f4-493c-90ed-a3eda00ca31d
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submit'coroutine' object is not iterable
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:41:05.169550
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:64995/devtools/browser/348edb37-de36-4e22-91b7-48d1e70dfdd2
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:41:45.783968
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:65031/devtools/browser/c661fee2-d299-45ba-84ae-7eb9f0afc465
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submit'ElementHandle' object has no attribute 'get_attribute'
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 10:46:42.706076
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:65131/devtools/browser/bbdab053-c5da-4ca7-adf2-f7e3962a6561
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submit'ElementHandle' object is not iterable
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:02:13.397924
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:65526/devtools/browser/66bba478-8b23-4b36-a9a8-7dff1ea0501b
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submit'list' object has no attribute 'querySelectorAll'
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:03:02.707615
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:49201/devtools/browser/b933098f-6f75-4481-bef7-e968dff40982
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:21:06.227570
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:49678/devtools/browser/4fcacdc5-812e-452d-8c88-d3149659f81e
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:23:03.890990
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:50272/devtools/browser/60751578-2fe8-4e60-81a1-bddbe2dccdb7
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:24:04.489522
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:50590/devtools/browser/c39d5e4d-8d30-48b6-b361-f3b06aff7bb6
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submitdictionary update sequence element #0 has length 8; 2 is required
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:24:33.750220
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:50759/devtools/browser/41e42ce2-055b-463d-a756-1a731985a93a
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:25:39.194891
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51080/devtools/browser/f8790f7c-1bb8-45e2-a1c1-8197f8062faf
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:26:25.884829
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51320/devtools/browser/02448cda-743a-40b8-a6f8-e71a61000abc
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:26:49.543101
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51439/devtools/browser/5b06ca4a-3573-4b79-bd10-2003f09daa7d
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:27:07.450559
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51542/devtools/browser/88ce8805-e840-4f18-a085-365e9fce8982
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:27:35.999172
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51699/devtools/browser/de69a3da-d64e-4af7-b38f-b4405b5b24cf
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:28:35.747543
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:51982/devtools/browser/9c84d14a-bcb9-45ec-a256-dd24150453de
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submitEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '[object HTMLInputElement]' is not a valid selector.
+    at __pyppeteer_evaluation_script__:1:33
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:32:36.768324
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:53101/devtools/browser/53713f96-cf27-4b4f-8e0e-2fc597782c42
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:33:20.521268
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:53337/devtools/browser/db343a1f-c315-4512-aecc-29eae48396b6
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:33:35.939855
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:53433/devtools/browser/ad725933-dd9f-4cfc-9b4c-dfd453eadead
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:34:29.955082
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:53696/devtools/browser/9abd21fc-ce33-477f-8419-7569e490e388
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:35:48.562659
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:54071/devtools/browser/628ca92b-da17-42c5-b1bf-bbd39fad4e0b
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:40:15.507335
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:55294/devtools/browser/58079e95-1e29-4164-b52c-aa51b943af2f
+INFO:root:Chrome Browser Opened
+INFO:pyppeteer.connection:connection closed
+INFO:root:Google Form Failed to Open
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:40:46.221406
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:55449/devtools/browser/00e2fdac-7728-4b7b-9c6c-54320a18330d
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+ERROR:root:Failed to submit'list' object has no attribute 'type'
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:41:30.856728
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:55690/devtools/browser/4a36d94c-d645-427a-8ed7-ba9df196f045
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+ERROR:root:Failed to submit'ElementHandle' object is not iterable
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:42:10.123305
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:55902/devtools/browser/11b4399c-89d7-4083-af14-3881e7a10cc2
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:43:09.012220
+INFO:root:Chrome Browser Failed to open
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:43:38.739755
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:56591/devtools/browser/24ea8fbb-237b-4d90-94e1-4674953fbb9a
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Failed to Open
+INFO:pyppeteer.launcher:terminate chrome process...
+ERROR:pyppeteer.connection:connection unexpectedly closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-41' coro=<Connection._async_send() done, defined at /Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py:69> exception=InvalidStateError('invalid state')>
+Traceback (most recent call last):
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 968, in transfer_data
+    message = await self.read_message()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1038, in read_message
+    frame = await self.read_data_frame(max_size=self.max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1113, in read_data_frame
+    frame = await self.read_frame(max_size)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 1170, in read_frame
+    frame = await Frame.read(
+            ^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/framing.py", line 69, in read
+    data = await reader(2)
+           ^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.11/3.11.4_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/streams.py", line 727, in readexactly
+    raise exceptions.IncompleteReadError(incomplete, n)
+asyncio.exceptions.IncompleteReadError: 0 bytes read on a total of 2 expected bytes
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 73, in _async_send
+    await self.connection.send(msg)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 635, in send
+    await self.ensure_open()
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/websockets/legacy/protocol.py", line 944, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: sent 1000 (OK); no close frame received
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 79, in _async_send
+    await self.dispose()
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 170, in dispose
+    await self._on_close()
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 151, in _on_close
+    cb.set_exception(_rewriteError(
+asyncio.exceptions.InvalidStateError: invalid state
+INFO:pyppeteer.launcher:terminate chrome process...
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Connection._recv_loop() done, defined at /Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py:53> exception=PageError('Page crashed!')>
+Traceback (most recent call last):
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 61, in _recv_loop
+    await self._on_message(resp)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 143, in _on_message
+    self._on_query(msg)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 123, in _on_query
+    session._on_message(params.get('message'))
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/connection.py", line 276, in _on_message
+    self.emit(obj.get('method'), obj.get('params'))
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyee/_base.py", line 115, in emit
+    handled = self._call_handlers(event, args, kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyee/_base.py", line 98, in _call_handlers
+    self._emit_run(f, args, kwargs)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyee/_base.py", line 83, in _emit_run
+    f(*args, **kwargs)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/page.py", line 188, in <lambda>
+    client.on('Inspector.targetCrashed', lambda event: self._onTargetCrashed())
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyppeteer/page.py", line 209, in _onTargetCrashed
+    self.emit('error', PageError('Page crashed!'))
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyee/_base.py", line 118, in emit
+    self._emit_handle_potential_error(event, args[0] if args else None)
+  File "/Users/delalifunani/Documents/Programs/clock-in/env/lib/python3.11/site-packages/pyee/_base.py", line 88, in _emit_handle_potential_error
+    raise error
+pyppeteer.errors.PageError: Page crashed!
+INFO:root:clock-in process started 2023-08-18 11:44:43.933286
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:56902/devtools/browser/f522af9e-24d5-436e-aea4-64289f136682
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:47:52.586309
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:57794/devtools/browser/548ca3fa-d915-4a58-a7bb-3d1a49135fd7
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:clock-in process started 2023-08-18 11:50:23.626143
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:58491/devtools/browser/d5b4753d-161d-4682-a2cc-aec483f64bf9
+INFO:root:Chrome Browser Opened
+INFO:root:Google Form Opened
+INFO:root:Username Entered
+INFO:root:Employee Number Entered
+INFO:root:Submitted Successfully
+INFO:pyppeteer.launcher:terminate chrome process...
